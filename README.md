@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Github State
-[![licunzhi's github stats](https://github-readme-stats.vercel.app/api?username=licunzhi&show_icons=true&theme=dracula)](https://github.com/licunzhi)
+[![licunzhi's github stats](https://github-readme-stats.vercel.app/api?username=licunzhi&show_icons=true&theme=merko)](https://github.com/licunzhi)
 
 
 <a target="_blank" href="https://github.com/licunzhi/DST">
