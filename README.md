@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 
 <a target="_blank" href="https://github.com/licunzhi/DST">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=licunzhi&repo=microservices-platform&theme=dracula" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=licunzhi&repo=DST&theme=dracula" />
 </a>
 
 <a target="_blank" href="https://github.com/licunzhi/dream_on_sakura_rain">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=licunzhi&repo=dubboSpringCloud&theme=dracula" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=licunzhi&repo=dream_on_sakura_rain&theme=dracula" />
 </a>
